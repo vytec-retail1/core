@@ -1,0 +1,35 @@
+[33mcommit 159c98077d4049cc85cc7feb030f65334332cc18[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: yog-devops <89433308+yog-devops@users.noreply.github.com>
+Date:   Thu Sep 9 07:54:30 2021 +0530
+
+    Update readme
+
+[33mcommit ff4bc1e146489d0c2b718576aa38e1d73813fc63[m
+Author: yog-devops <89433308+yog-devops@users.noreply.github.com>
+Date:   Thu Sep 9 07:51:41 2021 +0530
+
+    Update readme
+
+[33mcommit 6643b8de8d30e7ee9504be3a241b8757368ea6c9[m
+Author: yogini aws <yoginiaws@vytec.com>
+Date:   Thu Sep 9 01:51:53 2021 +0000
+
+    VTR-1010: added ci file
+
+[33mcommit 8d4d726863f72666408605cfd662e0a2fb4b214a[m
+Author: yogini aws <yoginiaws@vytec.com>
+Date:   Thu Sep 9 01:48:48 2021 +0000
+
+    VTR-100: added test file
+
+[33mcommit afae5e93329e43ef93ba064dd06f0ee4395940d1[m
+Author: Ubuntu <ubuntu@ip-172-31-38-230.ap-south-1.compute.internal>
+Date:   Thu Sep 9 01:39:34 2021 +0000
+
+    VTR-100: added readme file
+
+[33mcommit 6f996e6c86f5c7750168cfd2f033f0c1ab2fe048[m
+Author: Ubuntu <ubuntu@ip-172-31-38-230.ap-south-1.compute.internal>
+Date:   Thu Sep 9 01:28:49 2021 +0000
+
+    VTR-100:aded new file for retail core group
